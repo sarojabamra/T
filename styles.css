@@ -167,7 +167,7 @@ body{
     font-weight: 500;
 }
 
-@media (max-width:768px){
+@media (max-width:770px){
     .wrapper{
         scale: 50%;     
     }
