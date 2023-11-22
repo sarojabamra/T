@@ -166,3 +166,12 @@ body{
 .results-detail li b{
     font-weight: 500;
 }
+
+@media (max-width:768px){
+    .wrapper{
+        scale: 50%;     
+    }
+    .result-details li{
+        padding: 0px 20px;
+    }
+}
